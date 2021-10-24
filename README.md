@@ -23,5 +23,13 @@ The purpose of this analysis is to determine, through a robust neural network de
  -  Add an additional hidden layer with 40 neurons.
  -  Regardless, the model was unable to reach an accuracy of the target 75%.
 
+<img width="1100" alt="Screen Shot 2021-10-24 at 1 34 59 AM" src="https://user-images.githubusercontent.com/85330159/138587318-66627901-0117-4e5c-bf09-0081095e1904.png">
+
+<img width="511" alt="Screen Shot 2021-10-24 at 1 37 22 AM" src="https://user-images.githubusercontent.com/85330159/138587324-9370e999-6c05-4207-9482-970d39c84b5d.png">
+
+<img width="1099" alt="Screen Shot 2021-10-24 at 1 59 30 AM" src="https://user-images.githubusercontent.com/85330159/138587327-4f1800b6-5994-448f-9c43-9019825448c5.png">
+
+
+
 ## Summary
-Based on the overall accuracy of the model (72.51%) as well as loss (56.98%), the model does not perform exceedingly well. Since the output of this model is a binary classifier, supervised machine learning can also be applied to the data. Therefore, a Random Forest Classifer model to create and synthesize various decision trees may be implemented to be compared against this deep learning neural network model. 
+Based on the overall accuracy of the revised model (72.63%) as well as loss (56.16%), the model does not perform exceedingly well. Since the output of this model is a binary classifier, supervised machine learning can also be applied to the data. Therefore, a Random Forest Classifer model to create and synthesize various decision trees may be implemented to be compared against this deep learning neural network model. 
